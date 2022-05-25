@@ -26,4 +26,4 @@ exports.Button.defaultProps = {
     onClick: () => undefined,
     type: 'primary',
 };
-//# sourceMappingURL=button.component.jsx.map
+//# sourceMappingURL=button.jsx.map

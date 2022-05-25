@@ -14,4 +14,4 @@ export declare const Button: {
         type: string;
     };
 };
-//# sourceMappingURL=button.component.d.ts.map
+//# sourceMappingURL=button.d.ts.map
